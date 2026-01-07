@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 MCA Student  
-- 💻 Frontend Developer (React & MERN)  
+- 💻 Frontend And Backend Developer
 - ☕ Java & ⚙️ .NET Developer (Academic & Project Experience)  
 - 🚀 Passionate about building scalable, real-world web applications  
 - 🌱 Currently learning **Advanced React, Backend APIs, Java & .NET**  
