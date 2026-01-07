@@ -89,9 +89,9 @@
 </p>
 
 
-
-
+---
 ---
 
-⭐ **Open to internships, collaborations & learning opportunities**  
-🚀 *Let’s build something amazing together!*
+🌱 **Learning, experimenting, and building cool projects**  
+💡 *Always open to collaboration and coding challenges!*
+
