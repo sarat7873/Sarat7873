@@ -53,6 +53,13 @@
 
 ---
 
+## ⚙️ Tools & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,linux,windows,chrome" />
+</p>
+
+---
+
 ## 🤝 Connect With Me
 <p align="left">
   <a href="https://www.instagram.com/prince_sarat18" target="_blank">
