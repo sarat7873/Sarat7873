@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=900&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Sarat+Swain;Frontend+Developer+%7C+MERN+Stack;Java+%7C+.NET+%7C+C%23+Developer;MCA+Student+%7C+Open+to+Internships;Building+Scalable+Web+Applications)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=900&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Sarat+Swain;Frontend+And+Backend+Developer+%7C;Java+%7C+.NET+%7C+C%23+Developer;MCA+Student;Building+Scalable+Web+Applications)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarat7873&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -61,7 +61,7 @@
   <a href="https://twitter.com/your_twitter_username" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/your_linkedin_username" target="_blank">
+  <a href="https://www.linkedin.com/in/sarat-swain-642a54348" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
