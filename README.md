@@ -1,3 +1,4 @@
+![logo](https://github.com/sarat7873/Sarat7873/blob/main/Githubimage.png)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=900&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Sarat+Swain;Frontend+And+Backend+Developer+%7C;Java+%7C+.NET+%7C+C%23+Developer;MCA+Student;Building+Scalable+Web+Applications)
 
 <p align="center">
