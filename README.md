@@ -89,8 +89,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarat7873" />
 </p>
 
-
----
 ---
 
 🌱 **Learning, experimenting, and building cool projects**  
